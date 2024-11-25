@@ -1,0 +1,5 @@
+1 ziad omran 3.9 8 9 10 11 12
+1 omar ezzat 2.6 5 21 73 92 36
+3 ahmed osama 3.4 54 12 55 81 64
+4 ali marwan 3.2 5 21 55 92 64
+5 ali nasser 3.4 54 12 55 81 64
